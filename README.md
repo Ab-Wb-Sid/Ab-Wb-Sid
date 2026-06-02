@@ -73,11 +73,6 @@ open_to:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,nodejs,django,fastapi,html,css,mysql,git,github,vscode,linux,bash&perline=8" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0d1117" />
-</p>
 
 ---
 
