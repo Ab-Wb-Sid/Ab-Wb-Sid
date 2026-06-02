@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:1a1a2e&height=140&section=header&text=Abdul%20Wahab%20Siddiqi&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Software%20Engineering%20Student%20%7C%20AI%20Builder%20%7C%20Open%20to%20Internships&descAlignY=62&descSize=15&descAlign=50" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%93;AI+%26+Automation+Builder+%F0%9F%A4%96;Problem+Solver+%26+Builder+%F0%9F%9A%80;CGPA+3.6+%40+COMSATS+Lahore+%F0%9F%93%9A;Open+to+SE+Internships+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%F0%9F%8E%93;AI+%26+Automation+Builder+%F0%9F%A4%96;Problem+Solver+%26+Builder+%F0%9F%9A%80;Open+to+SE+Internships+%E2%9C%85" alt="Typing SVG" />
 </p>
 
 <p align="center">
