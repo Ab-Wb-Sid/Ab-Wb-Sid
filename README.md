@@ -85,7 +85,7 @@ open_to:
       <p><b>Python · Node.js · Express.js · OpenAI API</b></p>
       <p>An AI-powered hub that processes inbound messages, generates GPT-based replies and PDF quotations, and logs records to Google Sheets — targeting ~60% reduction in manual SME workflows.</p>
       <p>
-        <a href="https://github.com/Ab-Wb-Sid">
+        <a href="https://github.com/Ab-Wb-Sid/AI-Automation-Workflow-Builder">
           <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </p>
@@ -95,7 +95,7 @@ open_to:
       <p><b>C++ · NLP · Rabin-Karp Algorithm</b></p>
       <p>Detection engine using 5+ NLP techniques — tokenization, stemming, cosine similarity, and n-gram hashing — to identify exact and semantically similar passages across 3 levels of granularity.</p>
       <p>
-        <a href="https://github.com/Ab-Wb-Sid">
+        <a href="https://github.com/Ab-Wb-Sid/Plagiarism-Detection-System">
           <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </p>
@@ -107,7 +107,7 @@ open_to:
       <p><b>Java · JavaFX</b></p>
       <p>Real-time two-player arcade game with animation timelines, collision detection, scorekeeping, and smooth 60fps rendering.</p>
       <p>
-        <a href="https://github.com/Ab-Wb-Sid">
+        <a href="https://github.com/Ab-Wb-Sid/Ping-Pong-Ball-Game-JavaANDJavaFX">
           <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
         </a>
       </p>
